@@ -114,7 +114,7 @@ button:hover{
    body{
     margin: 0;
     padding: 10px;
-   }
+}
 
    .container{
     margin-top: 0;
@@ -123,6 +123,7 @@ button:hover{
     display: flex;
     flex-direction: column;
 }
+
 .right{
     order: -1;
 }
