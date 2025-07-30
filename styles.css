@@ -80,6 +80,14 @@ button:hover{
     background-color: #4600a1;
 }
 
+.btn-click{
+    color: white;
+}
+
+.btn-click:hover{
+    color: white;
+}
+
 .signup{
     text-align: center;
 }
