@@ -3,7 +3,6 @@ body{
     display: flex;
     justify-content: center;
     background-color: #7b28e4;
-
 }
 
 .container{
@@ -98,7 +97,7 @@ button:hover{
 
     background-image:url(image.png);
     background-size: cover;
-    
+
     color: white;
     background-repeat: no-repeat;
 
