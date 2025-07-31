@@ -62,6 +62,8 @@ a:hover{
 }
 
 i{
+    position: absolute;
+margin-top: 7px;
     color:  #7b28e4;
 }
 
